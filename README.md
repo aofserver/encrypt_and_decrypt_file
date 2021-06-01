@@ -8,15 +8,13 @@ $ pip install cryptography
 
 
 # Encrypt File
-```
 Input data to encrypt `Username & Password.txt` file and run command `python encrypt_and_decrypt_file.py` choose `1`
-```
+
 
 
 # Decrypt File
-```
 Use `key.txt` and `Username & Password.encrypted` file to decrypt and run command `python encrypt_and_decrypt_file.py` choose `2`
-```
+
 
 
 
