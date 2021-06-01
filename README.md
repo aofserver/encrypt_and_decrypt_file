@@ -17,4 +17,4 @@ use `key.txt` file to decrypt and run command `python encrypt_and_decrypt_file.p
 choose `q`,`Q`,`exit` to exit 
 Note : Delete the data in the file before saving it to prevent file recovery.
 
-![](https://github.com/aofserver/Project/blob/master/encrypt_and_decrypt_file/Result/how to use.gif)
+![](https://github.com/aofserver/encrypt_and_decrypt_file/blob/main/Result/how%20to%20use.gif)
